@@ -1,0 +1,9 @@
+**/target/
+**/*.db
+**/*.db-journal
+.idea/
+.vscode/
+*.class
+*.jar
+*.war
+
